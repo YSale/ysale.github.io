@@ -5,4 +5,6 @@ inline: true
 related_posts: false
 ---
 
-Presented our spotlight poster at ICML! :austria: :sparkles: 
+We presented our spotlight poster at ICML 2024 in Vienna. 
+
+It was fantastic to present our paper and connect with the machine learning community. :austria:

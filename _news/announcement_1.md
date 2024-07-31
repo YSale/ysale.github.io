@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started my Ph.D. at LMU Munich advised by Eyke Hüllermeier! :rocket: :sparkles: TEST TEST
+Excited to announce that I have joined the [AI+ML](https://www.kiml.ifi.lmu.de/index.html) chair at LMU Munich for my Ph.D. under the supervision of [Eyke Hüllermeier](https://www.kiml.ifi.lmu.de/people/professors/huellermeier/index.html). :mortar_board:

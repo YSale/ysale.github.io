@@ -5,4 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Presented our poster at UAI! :es: :sparkles: 
+We presented our poster at UAI 2024 in Barcelona. 
+The engaging discussions were truly inspiring. :es:
